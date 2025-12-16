@@ -142,7 +142,7 @@ export default function App() {
       }
 
       // Download PDF
-      pdf.save('DietPlan_' + name.replace(/[^a-zA-Z0-9]/g, '_') + '.pdf');
+      pdf.save(name.replace(/[^a-zA-Z0-9]/g, '_') + '_nutrition.pdf');
     } catch (e) {
       alert('PDF generation error: ' + e.message);
     }
