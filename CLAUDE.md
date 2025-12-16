@@ -44,7 +44,7 @@ The main application (`src/App.jsx`) is a comprehensive form-based component tha
 
 - **PDF Export**: Generates HTML-based downloadable diet plans with professional styling
 - **Responsive Design**: Mobile-friendly grid layouts that adapt to screen sizes
-- **Professional Branding**: Features "JeevanShree - Certified Nutritionist" branding throughout
+- **Professional Branding**: Features "JeevanShree - Certified Integrative Nutrition Health Coach" branding throughout
 - **Form Validation**: Basic client-side validation for required fields
 
 ### State Structure

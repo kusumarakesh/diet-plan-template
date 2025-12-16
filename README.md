@@ -14,7 +14,7 @@ A professional weekly diet plan template for nutritionists built with React and 
 - **Supplement Tracking**: Organized supplement management with dosage and timing
 - **Export Functionality**: Download meal plans as formatted HTML files
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
-- **Professional Branding**: Customized for JeevanShree - Certified Nutritionist
+- **Professional Branding**: Customized for JeevanShree - Certified Integrative Nutrition Health Coach
 
 ## 🚀 Quick Start
 
@@ -92,7 +92,7 @@ npm run firebase:init
 
 ## 📄 License
 
-This project is created for **JeevanShree - Certified Nutritionist**
+This project is created for **JeevanShree - Certified Integrative Nutrition Health Coach**
 
 ## 🆘 Support
 

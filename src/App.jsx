@@ -67,7 +67,7 @@ export default function App() {
         '<body style="font-family:Arial;padding:20px;max-width:1000px;margin:auto">' +
         '<div style="background:#059669;color:white;padding:20px;border-radius:10px;margin-bottom:20px">' +
         '<h1 style="margin:0">Weekly Diet Plan</h1>' +
-        '<p style="margin:5px 0 0">Prepared by: JeevanShree - Nutritionist</p></div>' +
+        '<p style="margin:5px 0 0">Prepared by: JeevanShree - Certified Integrative Nutrition Health Coach</p></div>' +
         '<div style="background:#f5f5f5;padding:15px;border-radius:10px;margin-bottom:15px">' +
         '<h2 style="color:#059669;margin:0 0 10px">Client: ' + name + '</h2>' +
         '<p>Age: ' + age + ' | Weight: ' + weight + 'kg | Height: ' + height + 'cm</p>' +
@@ -119,7 +119,7 @@ export default function App() {
       <div className="bg-gradient-to-r from-emerald-600 to-teal-600 text-white p-6 rounded-xl shadow-lg mb-6">
         <div className="flex justify-between items-center">
           <div><h1 className="text-2xl font-bold">Weekly Diet Plan</h1><p className="text-emerald-100 text-sm mt-1">Personalized Nutrition Program</p></div>
-          <div className="text-right"><p className="text-sm text-emerald-100">Prepared by</p><p className="font-semibold">JeevanShree</p><p className="text-xs text-emerald-200">Certified Nutritionist</p></div>
+          <div className="text-right"><p className="text-sm text-emerald-100">Prepared by</p><p className="font-semibold">JeevanShree</p><p className="text-xs text-emerald-200">Certified Integrative Nutrition Health Coach</p></div>
         </div>
       </div>
 
